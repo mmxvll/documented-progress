@@ -1,1 +1,1 @@
-
+In the past 3 years I probed into multiple disciplines, the most prominent being marketing, sales, graphic design. I, as young people do, had a distorted perception of myself and the world. I had to bump into reality and collect some bruises to adjust my professional trajectory. Below I will put forward trends that I think led to my current decisions.
