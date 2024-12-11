@@ -8,3 +8,5 @@ Completed [_Learn Python - Full course for Beginners by freeCodeCamp_](https://w
   - Classes & Objects
   - Classes & Inheritance
   - Python Interpreter
+
+Wrote a simple CLI quiz that asks a question and takes an input. Outputs a score at the end. 
