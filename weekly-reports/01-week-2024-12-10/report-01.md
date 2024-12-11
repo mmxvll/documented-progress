@@ -6,5 +6,5 @@ Completed [_Learn Python - Full course for Beginners by freeCodeCamp_](https://w
   - Try/Except
   - Modules
   - Classes & Objects
-  - Inheritance
+  - Classes & Inheritance
   - Python Interpreter
