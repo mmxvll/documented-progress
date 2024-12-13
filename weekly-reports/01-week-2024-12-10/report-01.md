@@ -14,4 +14,4 @@ Solved 12 HackerRank Python problems so far. Notable:
   - RunnerUp Score
   - Captains Room
 
-Completed Ray Dalio's [https://ia600207.us.archive.org/27/items/BridgewaterRayDalioPrinciples/Bridgewater%20-%20Ray%20Dalio%20-%20Principles.pdf](Principles (a pdf version))
+Completed Ray Dalio's [Principles (a pdf version)](https://ia600207.us.archive.org/27/items/BridgewaterRayDalioPrinciples/Bridgewater%20-%20Ray%20Dalio%20-%20Principles.pdf)
