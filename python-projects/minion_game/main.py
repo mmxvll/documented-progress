@@ -1,8 +1,20 @@
 def minion_game(s):
-    s = input()
     # Kevin makes words with vowels
     # Stuart makes words with consonants
-    # generate algorithm for each player
     # add points and compare results
+    subs = list()
+    i = 0
+    for i in range(len(s)):
+        for j in range(i+1, len(s)+1):
+            subs.append(s[i:j])
+    
+    for sub in subs:
+    return subs
 
-    # take string s.
+def find_permutations(string):
+    
+
+
+
+s = input()
+print(minion_game(s))
