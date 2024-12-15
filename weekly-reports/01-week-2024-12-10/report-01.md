@@ -9,9 +9,11 @@ Completed [_Learn Python - Full course for Beginners by freeCodeCamp_](https://w
   - Classes & Inheritance
   - Python Interpreter
 
-Solved 12 HackerRank Python problems so far. Notable:
+Solved 29 HackerRank Python problems so far. Notable:
   - List Comprehensions
   - RunnerUp Score
   - Captains Room
+
+Wrote Merge Sort Algorithm in Python. I attempted it back in Augist with C for CS50 - failed miserably and eventually quit. Completing it now is a clear indication of progress.
 
 Completed [Ray Dalio's Principles](https://ia600207.us.archive.org/27/items/BridgewaterRayDalioPrinciples/Bridgewater%20-%20Ray%20Dalio%20-%20Principles.pdf)
