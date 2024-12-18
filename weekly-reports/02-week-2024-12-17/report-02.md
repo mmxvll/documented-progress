@@ -7,6 +7,7 @@
 - install iPython shell
 
 **_Day 2:_**
+
 complete Chapter 2 
   _(rundown of python functionality)_
   -  Lists, Sets, Dicts
