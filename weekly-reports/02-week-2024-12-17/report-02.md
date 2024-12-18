@@ -13,3 +13,4 @@
   -  defaultdict(), Counter()
   -  List Comprehensions
   -  automated testing with 'assert'
+  -  Iterators & Generators
