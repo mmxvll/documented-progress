@@ -12,3 +12,4 @@
   -  Lists, Sets, Dicts
   -  defaultdict(), Counter()
   -  List Comprehensions
+  -  automated testing with 'assert'
