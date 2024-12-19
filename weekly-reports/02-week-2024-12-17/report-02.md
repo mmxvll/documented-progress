@@ -15,3 +15,7 @@ complete Chapter 2
   -  List Comprehensions
   -  automated testing with 'assert'
   -  type annotations
+
+**_Day 3:_**
+
+Completed Chapter 3: rundown of matplotlib and its capabilities
