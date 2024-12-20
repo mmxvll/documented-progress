@@ -18,4 +18,5 @@ complete Chapter 2
 
 **_Day 3:_**
 
-Completed Chapter 3: rundown of matplotlib and its capabilities
+  - Completed Chapter 3: rundown of matplotlib and its capabilities
+  - first lecture of [_MIT 18.06 Linear Algebra w/ Gilbert Strang_](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
