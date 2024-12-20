@@ -20,3 +20,11 @@ complete Chapter 2
 
   - Completed Chapter 3: rundown of matplotlib and its capabilities
   - first lecture of [_MIT 18.06 Linear Algebra w/ Gilbert Strang_](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
+    - row form and graph representation
+    - column form 
+
+**_Day 4:_**
+
+- linear combinations
+- matrix column space
+- matrix multiplication
