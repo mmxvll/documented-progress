@@ -29,4 +29,11 @@ complete Chapter 2
 - matrix column space
 - matrix multiplication
 - Chapter 1.1 _Introduction to Linear Algebra Gilbert Strang (2023)_
-  - pset 1, exercises 1-5 [_notes_](url)
+  - pset 1, exercises 1-5
+
+**_Day 5:_**
+
+  - problem 6
+
+
+  
