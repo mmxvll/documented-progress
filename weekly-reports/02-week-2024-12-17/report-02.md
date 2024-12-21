@@ -33,7 +33,7 @@ complete Chapter 2
 
 **_Day 5:_**
 
-  - problem 6
+  - problems 6,7
 
 
   
