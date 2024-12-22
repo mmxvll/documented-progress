@@ -33,7 +33,11 @@ complete Chapter 2
 
 **_Day 5:_**
 
-  - problems 6,7
+- problems 6,7
 
+**_Day 6:_**
+
+- Stanford ENGR108:
+  - [Lecture 2: Vector Notation](https://youtu.be/vVspolIKPgc?si=P_75ZGbdWfj_lPe6)   
 
   
