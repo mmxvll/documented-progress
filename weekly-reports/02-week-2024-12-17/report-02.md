@@ -40,4 +40,9 @@ complete Chapter 2
 - Stanford ENGR108:
   - [Lecture 2: Vector Notation](https://youtu.be/vVspolIKPgc?si=P_75ZGbdWfj_lPe6)   
 
+**_Day 7:_**
+
+- Stanford [ENGR108](https://youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&si=i4g4iva7wqdyVuYE):
+  - Lectures 3,4  
+
   
