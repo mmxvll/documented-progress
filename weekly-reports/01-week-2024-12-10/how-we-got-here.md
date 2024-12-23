@@ -15,7 +15,7 @@ Data Science is at the intersection of Programming and Statistics. I want to be 
 
 **What else to do?** 
 
-Thinking about one's mortality is a powerful coordinating practice. Everything gets into line: what will my life be about? what do I need to get done? what do I want? I never chose to be born. I'm thrown into the ocean called life and if I don't learn to swim, I drown. It's easy to end up nihilistic. Hedonic whims are no replacement for meaning. Things that bring immediate pleasure (scrolling tiktok, sweet food) don't fill the void. Plus, I adapt to the stimilus; I either need more of the thing or more intense version of the thing to feel the same high.
+Thinking about one's mortality is a powerful coordinating practice. Everything gets in line: what will my life be about? what do I need to get done? what do I want? I never chose to be born. I'm thrown into the ocean called life and if I don't learn to swim, I drown. It's easy to end up nihilistic. Hedonic whims are no replacement for meaning. Things that bring immediate pleasure (scrolling tiktok, sweet food) don't fill the void. Plus, I adapt to the stimilus; I either need more of the thing or more intense version of the thing to feel the same high.
 
 Voluntary discomfort turns out to be the best response to nihilism.  
 
