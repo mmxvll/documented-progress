@@ -6,13 +6,14 @@ Steve Jobs said:
 
 _"You have to work hard to get your thinking clean, to make it simple. But it's worth it in the end because once you get there, you can move mountains."_
 
-If I could go back to grade 7, I would invest time in Physics and Programming (not buy bitcoin as most would). Mastery of a skill feels more rewarding than money, at least for now.
+If I could go back to grade 7, I would invest time in Physics and Programming (not buy bitcoin). Mastery of a skill feels more rewarding than money, at least for now.
 
 Data Science is at the intersection of Programming and Statistics. I want to be competent in both, so why not get 2 in 1? 
 
-**Life is a tragedy:** I never chose to be born. I'm thrown into the ocean called life and if I don't learn to swim, I drown. It's easy to end up nihilistic. Hedonic whims are no replacement for meaning. Things that bring immediate pleasure (scrolling tiktok, sweet food) don't fill the void, they distract from pain. Plus, I adapt to the stimilus - I either need more intense version of the thing or more volume of the thing to feel the same high.
+
+**What else to do?** Thinking about one's mortality is a powerful coordinating practice. Everything gets into line: what will my life be about? what do I need to get done? what do I want? I never chose to be born. I'm thrown into the ocean called life and if I don't learn to swim, I drown. It's easy to end up nihilistic. Hedonic whims are no replacement for meaning. Things that bring immediate pleasure (scrolling tiktok, sweet food) don't fill the void. Plus, I adapt to the stimilus; I either need more intense version of the thing or more volume of the thing to feel the same high.
 
 Voluntary discomfort turns out to be the best response to nihilism.  
 
-I can't eliminate fear unless I do a brain surgery, so the ocean will be dreadful forever. The way out of that is to build courage. If you're scared, do it being scared. Running towards fear is a lifehack. In a way, I have nothing else to do but set to master things that scare me - technical concepts, statistics, algorithms.
+I can't eliminate fear unless I do a brain surgery, so the ocean will be dreadful forever. The way out of that is to build courage. If you're scared, do it being scared. Running towards fear is a lifehack. In a way, I have nothing else to do but try to understand the things that scare me - technical concepts, statistics. If you notice the magic of life, there are lots of exciting things one can learn about. Getting insights from data doesn't sound romantic, but it's a powerful tool to understand the world better.
 
