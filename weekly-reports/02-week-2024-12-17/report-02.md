@@ -43,6 +43,6 @@ complete Chapter 2
 **_Day 7:_**
 
 - Stanford [ENGR108](https://youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&si=i4g4iva7wqdyVuYE):
-  - Lectures 3,4  
+  - Lectures 3,4,5,6
 
   
