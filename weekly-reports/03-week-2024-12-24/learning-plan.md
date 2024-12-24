@@ -11,3 +11,7 @@ More I get into the weeds, more I realize that I suck more than I thought. So I 
 - [Stanford ENGR108](https://web.stanford.edu/~boyd/vmls/)
 - [Linear Algebra and Its Applications by David C Lay](https://g.co/kgs/FES95D9)
 - [Introduction to Linear Algebra by Gil Strang (MIT)](https://math.mit.edu/~gs/linearalgebra/)
+
+****
+**Data Science**
+- [Data Science from Scratch by J. Grus](https://a.co/d/c4e7O63)
