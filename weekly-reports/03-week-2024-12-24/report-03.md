@@ -6,7 +6,12 @@
   - provoked [a new learning path](https://github.com/mmxvll/documented-progress/edit/main/weekly-reports/03-week-2024-12-24/learning-plan.md)
   
 **_Day 2:_**
-
+- Basic Mathematics by Serge Lang
+  -  1.1 Numbers 
+  -  1.2 Addition
+    - Exercises 1-23 
+  -  1.3 Rules for Multiplication
+    - Exercises 1-33 
 
 **_Day 3:_**
 
