@@ -13,6 +13,8 @@ _Basic Mathematics by Serge Lang_
       - Exercises 1-23 
   -  1.3 Rules for Multiplication
       - Exercises 1-33 
+  - 1.4 Even and Odd Integers, Divisibility
+      - Exercises 1-26  
 
 **_Day 3:_**
 
