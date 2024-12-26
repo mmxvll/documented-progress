@@ -19,7 +19,8 @@ _Basic Mathematics by Serge Lang_
 **_Day 3:_**
 _day off_
 - _Watched Malcom Gladwell's "Outliers"_ - [_presentation_](https://youtu.be/EcMKLwVlpJk?si=8dd-7H1WsdJML2fe)
-- 
+- _6th season of Black Mirror (it sucks, except "Beyond the Sea")_
+- _Rick Rubin and Peter Thiel_ [_podcast_](https://youtu.be/AlkkAKzkXQM?si=hY-GE7VS1GM1lCuG)
 
 **_Day 4:_**
 
