@@ -17,7 +17,9 @@ _Basic Mathematics by Serge Lang_
       - Exercises 1-26  
 
 **_Day 3:_**
-
+_day off_
+- [_Malcom Gladwell's Outliers presentation_](https://youtu.be/EcMKLwVlpJk?si=8dd-7H1WsdJML2fe)
+- 
 
 **_Day 4:_**
 
