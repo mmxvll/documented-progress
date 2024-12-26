@@ -18,13 +18,13 @@ _Basic Mathematics by Serge Lang_
 
 **_Day 3:_**
 _day off_
-- [_Malcom Gladwell's Outliers presentation_](https://youtu.be/EcMKLwVlpJk?si=8dd-7H1WsdJML2fe)
+- _Watched Malcom Gladwell's "Outliers"_ - [_presentation_](https://youtu.be/EcMKLwVlpJk?si=8dd-7H1WsdJML2fe)
 - 
 
 **_Day 4:_**
 
 -
-
+[
 **_Day 5:_**
 
 - 
