@@ -24,6 +24,9 @@ _day off_
 
 **_Day 4:_**
 - 1.5 Rational Numbers
+  - Exercises 1-6
+  - 7: a,b
+  - 
 
 **_Day 5:_**
 
