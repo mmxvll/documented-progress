@@ -23,9 +23,8 @@ _day off_
 - _Rick Rubin and Peter Thiel_ [_podcast_](https://youtu.be/AlkkAKzkXQM?si=hY-GE7VS1GM1lCuG)
 
 **_Day 4:_**
+- 1.5 Rational Numbers
 
--
-[
 **_Day 5:_**
 
 - 
