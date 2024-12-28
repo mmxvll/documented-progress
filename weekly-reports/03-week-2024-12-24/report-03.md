@@ -30,7 +30,7 @@ _day off_
 
 **_Day 5:_**
 
-- 
+- 1.6 Multiplicative Inverses
 
 **_Day 6:_**
 
