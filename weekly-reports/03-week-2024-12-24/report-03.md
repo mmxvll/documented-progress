@@ -31,7 +31,7 @@ _day off_
 **_Day 5:_**
 
 - 1.6 Multiplicative Inverses
-    - Exercises 1,2
+    - Exercises 1-18
 
 **_Day 6:_**
 
