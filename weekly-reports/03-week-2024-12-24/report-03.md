@@ -36,6 +36,7 @@ _day off_
 **_Day 6:_**
 
 - 2.1 Linear Equations
+  - Exercises 1-11
 
 **_Day 7:_**
 
