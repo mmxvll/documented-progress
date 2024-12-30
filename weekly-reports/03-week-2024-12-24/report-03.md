@@ -45,3 +45,4 @@ _day off_
 - Exercises 9-12
 - 3.1 Real Numbers: Addition and Multiplication
   - Exercise 1 (a,b)
+- 3.2 Real Numbers: Positivity
