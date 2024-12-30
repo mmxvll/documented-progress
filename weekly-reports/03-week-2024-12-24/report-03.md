@@ -46,3 +46,4 @@ _day off_
 - 3.1 Real Numbers: Addition and Multiplication
   - Exercise 1 (a,b)
 - 3.2 Real Numbers: Positivity
+  - Exercises 1-6
