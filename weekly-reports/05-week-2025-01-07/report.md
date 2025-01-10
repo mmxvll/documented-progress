@@ -6,4 +6,4 @@ Jan 9:
 
 Jan 10: 
  - Chapter 3.3, Ex. 6-9
- - Chapter 3.4, Ex. 1-4 
+ - Chapter 3.4, Ex. 1-4; 11-32
