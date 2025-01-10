@@ -3,3 +3,6 @@
 Jan 9: 
  - Basic Math Serge Lang, Chapter 3.3
      - Exercises 1-5 
+
+Jan 10: 
+ - Chapter 3.3, Ex. 6-9
