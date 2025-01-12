@@ -25,5 +25,7 @@ Jan 12:
 
  - 5.1: Distance
  - 5.2: Angles
-   - Exercises 1-6 
+   - Exercises 1-6
+ - 5.3: Pythagoras Theorem
+   - Exercises 1-10 
 
