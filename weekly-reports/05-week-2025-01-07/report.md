@@ -13,4 +13,9 @@ Jan 11:
 
 Jan 12: 
  - Chapter 4: Quadratic Equations
-  - Exercises 1-16 
+   - Exercises 1-16 
+- Interlude on Logic and Mathematical Expressions
+  - Paragraph 1: On reading books
+  - Paragraph 2: Logic
+  - Paragraph 3: Sets and Elements
+  - Paragraph 4: Indices
