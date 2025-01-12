@@ -20,3 +20,6 @@ Jan 12:
   - Paragraph 3: Sets and Elements
   - Paragraph 4: Indices
   - Paragraph 5: Notation
+
+ **_Part II of S. Lang's Basic Mathematics: Geometric Intuition. Chapter 5: Distance and Angles._**
+
