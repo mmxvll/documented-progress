@@ -19,3 +19,4 @@ Jan 12:
   - Paragraph 2: Logic
   - Paragraph 3: Sets and Elements
   - Paragraph 4: Indices
+  - Paragraph 5: Notation
