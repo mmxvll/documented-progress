@@ -23,3 +23,5 @@ Jan 12:
 
  **_Part II of S. Lang's Basic Mathematics: Geometric Intuition. Chapter 5: Distance and Angles._**
 
+ - 5.1: Distance
+
