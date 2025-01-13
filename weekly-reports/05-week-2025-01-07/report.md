@@ -29,3 +29,5 @@ Jan 12:
  - 5.3: Pythagoras Theorem
    - Exercises 1-10 
 
+Jan 13:
+ - reading Grit by Angela Duckworth
