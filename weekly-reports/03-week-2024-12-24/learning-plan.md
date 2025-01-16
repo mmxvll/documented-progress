@@ -1,10 +1,15 @@
-More I get into the weeds, more I realize that I suck more than I thought. So I expect this to be an evolving document.
+**Learning to Study**
+- [Optimize Learning & Creativity with Science-Based Tools](https://youtu.be/uuP-1ioh4LY?si=CL5jwt_BsjG0cv2t)
+- [Learn faster using failures, movement, balance](https://youtu.be/hx3U64IXFOY?si=FNn0chlQjrItlIaG)
 
+****
+**Statistics**
+- Practical Statistics for Data Scientists, on [O'Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+
+****
 **Mathematics Basics:**
 - ["Basic Mathematics" by Serge Lang](https://g.co/kgs/Wtvp9MZ)
-- [Kiselev's Geometry: Planimetry](https://g.co/kgs/TqBY4e4) (_just because I avoided geometry at school_)
-- [Elementary Geometry for College Students](https://a.co/d/iuCKrw8) (_so now it's masochistic will to knowledge_)
-- [College Algebra by Mark Dugopolski](https://g.co/kgs/L6UA3JT)
+- Mathematics for Machine Learning - Marc P. Deisenroth, A. Faisal, Cheng Soon Ong
 
 ****
 **Linear Algebra**
@@ -15,3 +20,4 @@ More I get into the weeds, more I realize that I suck more than I thought. So I 
 ****
 **Data Science**
 - [Data Science from Scratch by J. Grus](https://a.co/d/c4e7O63)
+- [Introduction to Statistical Learning](https://www.statlearning.com/)
