@@ -5,5 +5,5 @@ I'm 21. I don't have much responsibilities. Free shelter, free food, no assignme
 
 I've had my detours. Practically, I spent 20 of the last 24 months completing various tutorials/courses. The Tutorial Hell is hell because you push the lever, but don't get the **desired** reward. Solving linear equations is rewarding, but less rewarding than turning competency into income.  
 
-Absence of tangible progress makes me feel like a loser. In contrast, my friends seem to have their act together. 
+Absence of tangible progress makes me feel like a loser. In contrast, my friends seem to have their act together. There are many kinds of different pressures to do better in life. Though it feels unpleasant, I'm kind of excited about feelings of inadequacy and doubt: _"wow, it's harder than I expected, will I pull this off?"_ 
 
