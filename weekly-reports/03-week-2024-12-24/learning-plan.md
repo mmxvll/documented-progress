@@ -4,10 +4,24 @@
 
 ****
 **Statistics**
+
+General:
+ - [The Art of Statistics, Learnign from Data](https://g.co/kgs/QExipuz)
+ - [Naked Statistics](https://g.co/kgs/CRdoAaJ)
+
+Textbooks:
 - Practical Statistics for Data Scientists, on [O'Reilly](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 
 ****
 **Mathematics Basics:**
+
+General:
+
+- [Fermat's Enigma](https://g.co/kgs/LrTQFJa)
+- [The Joy of X](https://g.co/kgs/FG6VXAJ)
+
+Textbooks:
+
 - ["Basic Mathematics" by Serge Lang](https://g.co/kgs/Wtvp9MZ)
 - Mathematics for Machine Learning - Marc P. Deisenroth, A. Faisal, Cheng Soon Ong
 
