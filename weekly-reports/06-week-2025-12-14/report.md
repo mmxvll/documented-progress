@@ -13,3 +13,4 @@ Jan 15:
 
 Jan 16: 
   - update [learning plan](https://github.com/mmxvll/documented-progress/blob/main/weekly-reports/03-week-2024-12-24/learning-plan.md)
+  - add [updates](https://github.com/mmxvll/documented-progress/blob/main/weekly-reports/06-week-2025-12-14/updates.md)
