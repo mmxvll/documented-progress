@@ -1,4 +1,4 @@
-After coming back from Poland I'm back at square one. It's as if I returned to the day I graduated school and have to decide what's next. But this time it's without parents paying
+After coming back from Poland I'm back at square one. It's as if I graduated school again and have to decide what's next. But this time it's without parents paying
 for university and with an ongoing caution about conscription. 
 
 I'm 21. I don't have much responsibilities. I have free shelter, free food, no assignments due, no pressure to "be on time". It's a great opportunity to address knowledge gaps (i.e., math) in preparation to a career of choice. But returns on foundational education come with delay; progress isn't as fast as it _"should"_ be. This feeling of stagnation raises questions about relevancy of educational material. Of course, to some degree everything is relevant, but life is finite, so some things are more relevant than others.
