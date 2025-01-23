@@ -9,3 +9,6 @@ Want to run through basic productivity, history, and education books before intr
 
 Jan 22:
 - Completed Atomic Habits
+- 26 pages of "make it stick"
+
+Jan 23: 
