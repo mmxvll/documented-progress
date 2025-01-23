@@ -13,3 +13,4 @@ Jan 22:
 - 26 pages of "make it stick"
 
 Jan 23: 
+- 18 pages of make it stick
