@@ -22,3 +22,6 @@ Jan 24:
 
 Fermat's Enigma has a paragraph that explains how terrible our intuitions are about probablities (consider 23 people and their birthdays problem). Make it stick reveals how terrible we are
 in our approaches to education. Correct methods are often counter-intuitive.  
+
+Jan 25:
+- Chapter 4: Embrace Difficulties
