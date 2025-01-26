@@ -25,3 +25,6 @@ in our approaches to education. Correct methods are often counter-intuitive.
 
 Jan 25:
 - Chapter 4: Embrace Difficulties
+
+Jan 26:
+- Chapter 5: Avoid Illusions of Knowing
