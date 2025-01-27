@@ -28,3 +28,8 @@ Jan 25:
 
 Jan 26:
 - Chapter 5: Avoid Illusions of Knowing
+
+Jan 27: 
+- Paper about Illusions of learning. [Self-Regulated Learning:
+Beliefs, Techniques,
+and Illusions](https://gwern.net/doc/psychology/spaced-repetition/2013-bjork.pdf)
