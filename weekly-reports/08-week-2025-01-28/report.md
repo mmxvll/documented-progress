@@ -2,7 +2,7 @@
 -
 
 Jan 28:
-- 
+- Chapter 6: Learning Styles, Dynamic Testing, and What Works.
 
 Jan 29:
 - 
