@@ -8,7 +8,7 @@ Jan 29:
 - Chapter 7: Neuroplasticity, Mnemonics, and Growth Mindset.
 
 Jan 30: 
-- 
+- Chapter 8: Make It Stick. Practical applications of retrieval practice, elaboration, spacing, interleaving, and testing. Case studies of learners applying these techniques.
 
 Jan 31:
 - 
