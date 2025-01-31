@@ -11,7 +11,8 @@ Jan 30:
 - Chapter 8: Make It Stick. Practical applications of retrieval practice, elaboration, spacing, interleaving, and testing. Case studies of learners applying these techniques.
 
 Jan 31:
-- 
+- review Data Science roadmap
+- download and read The Art of Statistics by David Spiegelhalter
 
 Feb 1:
 - 
