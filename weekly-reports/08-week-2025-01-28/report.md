@@ -15,7 +15,7 @@ Jan 31:
 - download and read The Art of Statistics by David Spiegelhalter
 
 Feb 1:
-- 
+- The Art of Statistics: Introduction. Turning world into data.
 
 Feb 2:
 - 
