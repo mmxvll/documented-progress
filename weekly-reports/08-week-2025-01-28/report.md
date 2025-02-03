@@ -23,4 +23,6 @@ Feb 2:
 Feb 3:
 - write a learning schedule
 
-A new studying schedule is written in accordance with core techniques of effective studying described in [make it stick](https://g.co/kgs/TcwSmEZ) 
+A new studying schedule is written in accordance with core techniques of effective studying described in [make it stick](https://g.co/kgs/TcwSmEZ).
+
+I'm incorporating elaboration and retrieval practice, spacing, interleaving, and variability. 
