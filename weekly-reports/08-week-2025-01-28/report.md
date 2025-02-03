@@ -18,7 +18,9 @@ Feb 1:
 - The Art of Statistics: Introduction. Turning world into data.
 
 Feb 2:
-- 
+- off
 
 Feb 3:
-- 
+- write a learning schedule
+
+A new studying schedule is written in accordance with core techniques of effective studying described in [make it stick](https://g.co/kgs/TcwSmEZ) 
