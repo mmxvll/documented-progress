@@ -2,7 +2,7 @@
 -
 
 Feb 04:
-- Chapter 6: Learning Styles, Dynamic Testing, and What Works.
+- [Hello, Python](https://www.kaggle.com/code/colinmorris/hello-python)
 
 Feb 05:
 - Chapter 7: Neuroplasticity, Mnemonics, and Growth Mindset.
