@@ -5,7 +5,7 @@ Feb 04:
 - [Hello, Python](https://www.kaggle.com/code/colinmorris/hello-python)
 
 Feb 05:
-- Chapter 7: Neuroplasticity, Mnemonics, and Growth Mindset.
+- [Chapter 2:](https://wesmckinney.com/book/python-basics) Python Basics, Jupyter, and IPython.
 
 Feb 06: 
 - Chapter 8: Make It Stick. Practical applications of retrieval practice, elaboration, spacing, interleaving, and testing. Case studies of learners applying these techniques.
