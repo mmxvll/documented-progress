@@ -6,6 +6,7 @@ Feb 04:
 
 Feb 05:
 - [Chapter 2:](https://wesmckinney.com/book/python-basics) Python Basics, Jupyter, and IPython.
+- The Art of Statistics: Getting things in Proportion in communicating Data
 
 Feb 06: 
 - Chapter 8: Make It Stick. Practical applications of retrieval practice, elaboration, spacing, interleaving, and testing. Case studies of learners applying these techniques.
