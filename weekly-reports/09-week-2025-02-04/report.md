@@ -9,7 +9,7 @@ Feb 05:
 - The Art of Statistics: Getting things in Proportion in communicating Data
 
 Feb 06: 
-- Chapter 8: Make It Stick. Practical applications of retrieval practice, elaboration, spacing, interleaving, and testing. Case studies of learners applying these techniques.
+- Kaggle: Functions and Getting help
 
 Feb 07:
 - review Data Science roadmap
