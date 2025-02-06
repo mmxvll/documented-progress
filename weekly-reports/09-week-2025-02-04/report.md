@@ -10,6 +10,7 @@ Feb 05:
 
 Feb 06: 
 - Kaggle: Functions and Getting help
+- Kaggle: Booleans and Conditionals
 
 Feb 07:
 - review Data Science roadmap
