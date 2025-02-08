@@ -18,15 +18,11 @@ off
 
 Feb 08:
 - [Chapter 3:](https://wesmckinney.com/book/python-builtin) Tuples, Lists, Dicts
+- Submit test Kaggle project
 
 Feb 09:
-- off
+- o
 
 Feb 10:
-- write a learning schedule
-
-A new studying schedule is written in accordance with core techniques of effective studying described in [make it stick](https://g.co/kgs/TcwSmEZ).
-
-I'm incorporating elaboration and retrieval practice, spacing, interleaving, and variability. 
-
+- wr
 - [Python for Data Analysis](https://wesmckinney.com/book). Chapter 1: Preliminaries.
