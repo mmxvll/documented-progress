@@ -13,11 +13,11 @@ Feb 06:
 - Kaggle: Booleans and Conditionals
 
 Feb 07:
-- review Data Science roadmap
-- download and read The Art of Statistics by David Spiegelhalter
+
+off
 
 Feb 08:
-- The Art of Statistics: Introduction. Turning world into data.
+- [Chapter 3:](https://wesmckinney.com/book/python-builtin) Tuples, Lists, Dicts
 
 Feb 09:
 - off
