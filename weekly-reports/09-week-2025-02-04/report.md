@@ -21,7 +21,7 @@ Feb 08:
 - Submit test Kaggle project
 
 Feb 09:
-- o
+- Deep Dive into LLMs by Andrej Karpathy
 
 Feb 10:
 - wr
