@@ -22,7 +22,6 @@ Feb 08:
 
 Feb 09:
 - Deep Dive into LLMs by Andrej Karpathy
-- Booleans and Conditionals
 
 Feb 10:
 - Lists
