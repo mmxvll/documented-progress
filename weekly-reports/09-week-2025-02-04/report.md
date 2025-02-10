@@ -26,4 +26,4 @@ Feb 09:
 Feb 10:
 - Lists
 - Loops and List Comprehensions
-- 
+- Strings and Dictionaries
