@@ -22,7 +22,8 @@ Feb 08:
 
 Feb 09:
 - Deep Dive into LLMs by Andrej Karpathy
+- Booleans and Conditionals
 
 Feb 10:
-- wr
+- Lists
 - [Python for Data Analysis](https://wesmckinney.com/book). Chapter 1: Preliminaries.
