@@ -26,4 +26,5 @@ Feb 09:
 
 Feb 10:
 - Lists
-- [Python for Data Analysis](https://wesmckinney.com/book). Chapter 1: Preliminaries.
+- Loops and List Comprehensions
+- 
