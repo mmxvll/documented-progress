@@ -5,13 +5,15 @@ Feb 11:
 - Working with external libraries
 
 Feb 12:
+- off
+
+Feb 13: 
+- off
+
+Feb 14:
+
+- review the big picture progress
 - 
-
-Feb 06: 
-
-Feb 07:
-
-off
 
 Feb 08:
 
