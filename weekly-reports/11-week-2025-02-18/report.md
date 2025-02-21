@@ -1,0 +1,18 @@
+What did you get done this week?
+-
+
+Feb 18:
+
+-  Read a chapter of [_The Technological Republic_](https://a.co/d/7HW7qHo)
+-  Read a chapter of _The Art of Statistics by Spiegelhalter_
+
+Feb 19:
+
+-  Read a chapter of _The Technological Republic_
+-  Read a chapter of _The Art of Statistics by Spiegelhalter_
+
+Feb 20:
+
+-  Read a chapter of _The Technological Republic_
+-  Read a chapter of _The Art of Statistics by Spiegelhalter_
+-  Read a few pages of Einstein by Walter Isaacson
