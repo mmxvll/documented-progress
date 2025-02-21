@@ -16,3 +16,9 @@ Feb 20:
 -  Read a chapter of _The Technological Republic_
 -  Read a chapter of _The Art of Statistics by Spiegelhalter_
 -  Read a few pages of Einstein by Walter Isaacson
+
+Feb 21:
+
+-  Read _The Technological Republic_
+-  Read _The Art of Statistics by Spiegelhalter_
+
