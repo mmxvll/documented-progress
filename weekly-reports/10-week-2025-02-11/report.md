@@ -13,10 +13,6 @@ Feb 13:
 Feb 14:
 
 - review the big picture progress
-- 
 
-Feb 08:
 
-Feb 09:
-
-Feb 10:
+_The following 5 days were spent in reflection, confusion, anger. A minor hurdle. I'm back._
