@@ -22,3 +22,6 @@ Feb 21:
 -  Read _The Technological Republic_
 -  Read _The Art of Statistics by Spiegelhalter_
 
+Feb 22:
+
+-  Read _The Technological Republic_
