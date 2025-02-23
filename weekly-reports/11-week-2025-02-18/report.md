@@ -25,3 +25,9 @@ Feb 21:
 Feb 22:
 
 -  Read _The Technological Republic_
+
+Feb 23:
+
+- Grok about specializations in healthcare Data Science
+-  Read _The Technological Republic_
+
