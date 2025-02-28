@@ -8,4 +8,11 @@ Feb 26:
 Feb 27:
 
 - read Einstein by Isaacson
-- read _The Art of Statistics by Spiegelhalter_ 
+- a chapter of _The Art of Statistics by Spiegelhalter_ 
+
+Feb 28:
+
+- Einstein by Isaacson
+- some  _The Art of Statistics by Spiegelhalter_
+- start _Think Stats by Allen Downey 2nd Edition_
+    - clone the repository   
